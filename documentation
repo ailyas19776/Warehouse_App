@@ -1,0 +1,16 @@
+Brief description of app: This app will allow customers to place orders based on commodities chosen from the catalog. 
+Customer will create account to place an order 
+Admin shall confirm the account through an email confirmation 
+Admin shall create credentials for customer and sends to customer through email
+Customer shall not create or change credentials on their own
+Customer can place orders through catalog
+Admin shall have access to a web portal for administration purpose 
+Customer app shall be available on the App store and Play store
+Alerts shall be sent to an email when an order is placed by the customer
+Orders are saved in the admin portal and in the customer’s app side
+Admin will upload images of commodities to be shown on the catalog
+Admin will write a description passage for the image uploaded in the catalog
+
+Will not haves:
+Will not have a payment gateway, payments are done outside the app system
+
